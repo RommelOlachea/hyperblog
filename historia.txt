@@ -1,4 +1,0 @@
-Este es un archivo de muestra 
-para el control de versiones de github
-
-Rommel Olachea.
