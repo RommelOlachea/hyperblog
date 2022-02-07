@@ -1,3 +1,5 @@
 ver 1. Hola, mi nombre es rommel olachea
 
 ver 2. Mi edad es de 40 anos
+
+ver 3. Mi trabajo es en CECC y Estancia Ayun
