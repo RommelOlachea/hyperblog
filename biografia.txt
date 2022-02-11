@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ver 1. Hola, mi nombre es rommel olachea
 
 ver 2. Mi edad es de 40 anos
@@ -19,3 +20,8 @@ Mary
 romina
 
 osmar
+=======
+Primera linea V1
+
+Segunda linea V2
+>>>>>>> b907814eda4f6d51c8e70f49df94908b0829411d
