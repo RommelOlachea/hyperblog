@@ -27,4 +27,3 @@ AURORA
 AURORA 2
 
 osmar
-demo
